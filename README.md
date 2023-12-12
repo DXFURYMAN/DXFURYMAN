@@ -5,9 +5,6 @@
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
 <p align='center'>
 
-![visitors](https://img.shields.io/github/visits/DXFURYMAN/DXFURYMAN?style=flat-square
-)
-
 </p>
 <div size='20px'> Hi! My name is Vineet Somani. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
