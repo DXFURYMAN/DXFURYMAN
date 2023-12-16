@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" height = "350px" src="https://www.secondmovement.com/the-journal/wp-content/uploads/2023/03/Banner_2448-X-1146.jpg" alt="cover" />
+<img width="100%" height = "300px" src="https://www.secondmovement.com/the-journal/wp-content/uploads/2023/03/Banner_2448-X-1146.jpg" alt="cover" />
 </div>
 
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
