@@ -52,22 +52,7 @@
 <details open="false">
   <summary><b>:gear:</b></summary>
   <h3 align="center">📊 GITHUB STATS</h3>
- <br/>
-    <p align="center">
-        <img height="137px" src="https://github-readme-stats.vercel.app/api?username=KunalUpadhyay02&theme=radical&hide_border=false&include_all_commits=true&count_private=true" />
-    </p>
-    <p align="center">
-        <img class="m-2 select-none pointer-events-none" draggable="false" id="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=KunalUpadhyay02&amp;theme=radical&amp;hide_border=false" alt="">
-    </p>
-<!--         <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KunalUpadhyay02&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-    </p> -->
-<p align="center">
-    <img width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KunalUpadhyay02&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
-</p>
-
-</details>
-<hr/>
-<!-- Stats ends -->
+ 
 
 
 <h2> Some Programming Humor for you <img align ='center' src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/winkFace.gif' width = '32px' height= '32px'></h2>
