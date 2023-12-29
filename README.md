@@ -52,7 +52,7 @@
   <summary><b>:gear:</b></summary>
   <h3 align="center">📊 GITHUB STATS</h3>
  
-<img width="100%" height = "800px" src="https://github.com/dxfuryman/dxfuryman/blob/main/github-wrapped-org.png?raw=true" alt="cover" />
+<img width="100%" height = "800px" src="https://github.com/dxfuryman/dxfuryman/blob/main/github-wrapped2.png?raw=true" alt="cover" />
 
 
 <h2> Some Programming Humor for you <img align ='center' src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/winkFace.gif' width = '32px' height= '32px'></h2>
