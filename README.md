@@ -1,5 +1,4 @@
 <div align="center">
-<img width="100%" height = "320px" src="https://www.secondmovement.com/the-journal/wp-content/uploads/2023/03/Banner_2448-X-1146.jpg" alt="cover" />
 </div>
 
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
@@ -53,6 +52,8 @@
   <summary><b>:gear:</b></summary>
   <h3 align="center">📊 GITHUB STATS</h3>
  
+<img width="100%" height = "320px" src="![github-wrapped](https://github.com/dxfuryman/dxfuryman/assets/94210130/7106e922-5e5f-467c-bdc2-d958f99681c8)
+" alt="cover" />
 
 
 <h2> Some Programming Humor for you <img align ='center' src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/winkFace.gif' width = '32px' height= '32px'></h2>
