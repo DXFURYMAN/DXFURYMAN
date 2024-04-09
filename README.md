@@ -60,4 +60,4 @@
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=dark)
 
 <br>
-<footer align='center'> currently living in wayne mansion and i am usualy nicknamed as BATMAN  </footer>
+<footer align='center'> currently living in wayne mansion and usualy nicknamed as BATMAN  </footer>
