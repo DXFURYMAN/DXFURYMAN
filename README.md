@@ -41,20 +41,6 @@
 <a href = 'https://dxfuryman.github.io/new-portfolio2/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
 <a href = 'https://www.github.com/https://github.com/DXFURYMAN'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
 
-<h2> Stuff I worked on last week  <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/needABreak.gif" width = 50px height= 50px> </h2>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://wakatime.com/share/@DXFURYMAN/626a582f-9c61-4098-9f42-52f3ffff31d9.svg"/>
-</a>
-<br>
-
-<hr>
-<details open="false">
-  <summary><b>:gear:</b></summary>
-  <h3 align="center">📊 GITHUB STATS</h3>
- 
-<img width="100%" height = "800px" src="https://github.com/dxfuryman/dxfuryman/blob/main/github-wrapped2.png?raw=true" alt="cover" />
-
-
 <h2> Some Programming Humor for you <img align ='center' src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/winkFace.gif' width = '32px' height= '32px'></h2>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=dark)
